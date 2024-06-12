@@ -1,0 +1,51 @@
+{
+    "user": {
+        "id": "1044980795",
+        "nickname": "影视飓风MediaStorm",
+        "gender": "男",
+        "location": "其他",
+        "birthday": "1996-05-16",
+        "description": "无限进步！商务合作请联系WX：ysjfBD（添加麻烦备注公司、咨询内容）",
+        "verified_reason": "微博vlog博主",
+        "talent": "",
+        "education": "Kent 15级",
+        "work": "影视飓风 2014年-至今",
+        "weibo_num": 2372,
+        "following": 449,
+        "followers": 1438000
+    },
+    "weibo": [
+        {
+            "id": "Oete0vrU4",
+            "user_id": "",
+            "content": "今天是我的生日05月16日，来祝福我吧~  ",
+            "article_url": "",
+            "original_pictures": "无",
+            "retweet_pictures": null,
+            "original": true,
+            "video_url": "无",
+            "publish_place": "无",
+            "publish_time": "2024-05-16 02:54",
+            "publish_tool": "生日动态",
+            "up_num": 187,
+            "retweet_num": 11,
+            "comment_num": 88
+        },
+        {
+            "id": "OeqvO4EdG",
+            "user_id": "",
+            "content": "近期我们公司有些新岗位开放招聘了，有全职也有实习，欢迎有兴趣的小伙伴加入！保存长图扫码，或者直接访问影视飓风官网（ysjf.com）点击上方【加入我们】，找到符合条件的岗位进行投递即可！  原图 ",
+            "article_url": "",
+            "original_pictures": "https://wx2.sinaimg.cn/large/3e49243bly1hpqegbq6t7j20p036wkat.jpg",
+            "retweet_pictures": null,
+            "original": true,
+            "video_url": "无",
+            "publish_place": "无",
+            "publish_time": "2024-05-15 20:00",
+            "publish_tool": "微博网页版",
+            "up_num": 437,
+            "retweet_num": 22,
+            "comment_num": 63
+        }
+    ]
+}

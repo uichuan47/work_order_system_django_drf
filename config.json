@@ -1,0 +1,39 @@
+{
+  "user_id_list": [
+    "1768409523"
+  ],
+  "filter": 1,
+  "since_date": 3,
+  "end_date": "now",
+  "random_wait_pages": [
+    1,
+    5
+  ],
+  "random_wait_seconds": [
+    6,
+    10
+  ],
+  "global_wait": [
+    [
+      1000,
+      3600
+    ],
+    [
+      500,
+      2000
+    ]
+  ],
+  "write_mode": [
+    "csv",
+    "json"
+  ],
+  "pic_download": 0,
+  "video_download": 0,
+  "file_download_timeout": [
+    5,
+    5,
+    10
+  ],
+  "result_dir_name": 1,
+  "cookie": "_T_WM=1269a8c16a6c10039fbc2181f48e58ad; SCF=AsTDOF-fpOO_UGvtCUXNz_EyphSviIg-njwdY9EFt0dVJ-tuIY-aSno0b5XnZJd38QXF4uMNoKs_KzCq0raXPPk.; SUB=_2A25LTb7TDeRhGeNI7VEV-SvLzziIHXVoIr4brDV6PUJbktB-LWzBkW1NSFN76AFYpcOgG8DhKKCzmqgOVGXekGF4; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5HZf26RSzMPNg02g.E5RoR5NHD95QfSoq0Sh.fS0BXWs4Dqc_hCcLuICH81F-RxFHFSEH8SC-RSCHFeFH81FHFxb-4BbH8SC-RxbHWeEH8SCHFeF-RxbH81CHWSb-41CH8SE-RBEHWBBtt; SSOLoginState=1716113026; ALF=1718705026; MLOGIN=1; M_WEIBOCN_PARAMS=luicode%3D20000174"
+}
